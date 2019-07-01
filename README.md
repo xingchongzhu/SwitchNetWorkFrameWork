@@ -1,0 +1,2 @@
+# SwitchNetWorkFrameWork
+在不修改原有代码的情况下，直接切换到不同网络框架，该项目用于练习kotlin
